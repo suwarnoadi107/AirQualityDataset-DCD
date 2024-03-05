@@ -28,9 +28,9 @@ MarkupSafe==2.1.5
 matplotlib==3.8.3
 mdurl==0.1.2
 numpy==1.26.4
-openpyxl==1.1.0
+openpyxl==3.1.0
 packaging==23.2
-pandas==3.1.0
+pandas==2.2.1
 pillow==10.2.0
 protobuf==4.25.3
 pyarrow==15.0.0
