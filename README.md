@@ -4,6 +4,8 @@ python -m venv venv
 
 venv\Scripts\activate
 
-pip install -r requirements.txt
+pip install os numpy pandas geopandas matplotlib seaborn statistics streamlit babel shapely openpyxl
+
+pip freeze > requirements.txt
 ## Run streamlit app
 streamlit run dashboard-proyek-cad2.py
