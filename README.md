@@ -1,4 +1,4 @@
-# AirQualityDataset-DCD
+# Run Dashboard Air Quality Dataset
 ## Set Up Environment
 python -m venv venv
 
